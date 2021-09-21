@@ -15,8 +15,8 @@ There's a [video](https://www.youtube.com/watch?v=4V-7KnhcrbY) published by [Tim
 ## Requirements
 
 ```sh
-$ brew install gpg
-$ brew install --cask keybase
+ssh-add
+
 ```
 
 You should already have an account with Keybase and be signed in locally using `$ keybase login`. In case you need to set up a new device first, follow the instructions provided by the keybase command during login.
